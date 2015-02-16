@@ -1,1 +1,12 @@
-Flask==0.10.1
+Flask
+Flask-Login
+Flask-Openid
+Flask-Mail
+Flask-Sqlalchemy
+Sqlalchemy-Migrate
+Flask-Whooshalchemy
+Flask-Wtf
+Flask-Babel
+Guess_Language
+Flipflop
+Coverage
